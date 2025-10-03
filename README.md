@@ -4,9 +4,7 @@ An SQL database server, including an SQL tokeniser and parser, error handling an
 
 
 ##### Demo: Select
-<p align="center">
-<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_select_conditions.gif" alt="" style="height:75vh;">
-</p>
+<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_select_conditions.gif" alt="Loading gif, please wait..." style="height:40vh;">
 
 
 # Usage
@@ -28,10 +26,7 @@ Open a new terminal (*do not close the first one!*) and run the client by typing
 You will see a prompt starting with `SQL:>`. Type your commands at this prompt.
 
 ##### Demo: Create Database and Tables
-
-<p align="center">
-<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_create_database_and_tables.gif" alt="" style="height:75vh;">
-</p>
+<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_create_database_and_tables.gif" alt="" style="height:40vh;">
 
 
 ## SQL Parser and Supported Commands
@@ -61,22 +56,13 @@ The Database Server includes a SQL parser based on the `./assets/docs/BNF.txt` g
 
 
 ##### Demo: Alter Table
-
-<p align="center">
-<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_alter_table.gif" alt="" style="height:75vh;">
-</p>
+<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_alter_table.gif" alt="" style="height:40vh;">
 
 ##### Demo: Error Handling
+<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_error_handling.gif" alt="" style="height:40vh;">
 
-<p align="center">
-<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_error_handling.gif" alt="" style="height:75vh;">
-</p>
-
-##### ##### Demo: Drop Table and Database
-
-<p align="center">
-<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_drop_database_and_table.gif" alt="" style="height:75vh;">
-</p>
+##### Demo: Drop Table and Database
+<img src="https://github.com/drpollylang/DatabaseServer/blob/main/assets/demos/db_drop_database_and_table.gif" alt="" style="height:40vh;">
 
 ## Persistent Storage
 
